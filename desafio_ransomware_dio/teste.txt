@@ -1,0 +1,2 @@
+Arquivo de teste da atividade da DIO.
+Este conteúdo existe exclusivamente para o laboratório.
